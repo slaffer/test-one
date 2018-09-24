@@ -1,3 +1,0 @@
-Favorite colors:
-Blue
-Blue
