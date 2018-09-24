@@ -5,7 +5,5 @@ This is a test GitHub repository
 
 Testing pushing from RStudio to GitHub
 
-Favorite books:
-Ready Player One
-Everything by Philip K Dick
-Anything Scifi
+<<<<<<< HEAD
+Favorite books: anything scifi
