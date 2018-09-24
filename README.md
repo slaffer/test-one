@@ -5,5 +5,4 @@ This is a test GitHub repository
 
 Testing pushing from RStudio to GitHub
 
-<<<<<<< HEAD
 Favorite books: anything scifi
